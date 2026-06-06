@@ -2,7 +2,7 @@
 
 Full-stack dev from Ukraine. Coding since 5th grade.
 
-- 🔧 Next.js, AWS, AI
+- 🔧 AI, Next.js, Python, AWS
 - 🤖 1000+ hours with LLMs — prompt engineering, custom tool chains, AI integration
 - 🚀 Currently building [Chystolys](https://www.chystolys.com/)
 
